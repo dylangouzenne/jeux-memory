@@ -1,0 +1,13 @@
+body {
+color:black;
+background-color:white;
+background-image:url(img/fond1.jpg);
+background-position:center center;
+background-repeat:no-repeat;
+background-attachment:fixed;
+}
+
+.tapis{
+  margin-left:auto;
+  margin-right:auto;
+}
